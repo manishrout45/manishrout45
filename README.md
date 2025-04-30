@@ -44,8 +44,9 @@ Email Me 👉 ✉️ **manishrout2001@gmail.com** For Collaboration/Project or A
 
 <!-- Footer Wave Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave1.svg" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/213895331-6e6dcf94-d4f8-4072-998e-1d5ec7e3f5f6.svg" alt="wave" width="100%" />
 </p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=manishrout45&icon=0&color=0)](https://visitcount.itsvg.in)
 
