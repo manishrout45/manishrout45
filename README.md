@@ -35,6 +35,9 @@ Email Me 👉 ✉️ **manishrout2001@gmail.com** For Collaboration/Project or A
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=manishrout45&icon=0&color=0)](https://visitcount.itsvg.in)
 
