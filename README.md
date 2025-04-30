@@ -42,10 +42,7 @@ Email Me 👉 ✉️ **manishrout2001@gmail.com** For Collaboration/Project or A
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 
-<!-- Footer Wave Animation -->
-<p align="center">
-  <img src="https://i.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="animated wave" width="100%" />
-</p>
+
 
 
 ---
